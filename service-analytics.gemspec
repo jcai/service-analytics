@@ -5,12 +5,12 @@
 
 Gem::Specification.new do |s|
   s.name = %q{service-analytics}
-  s.version = ""
+  s.version = "0.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["jcai"]
   s.date = %q{2011-05-11}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{Service Analytics System}
   s.email = %q{jcai@fepss.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -23,7 +23,9 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
+    "VERSION",
     "lib/service-analytics.rb",
+    "service-analytics.gemspec",
     "test/helper.rb",
     "test/test_service-analytics.rb"
   ]
@@ -31,7 +33,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{Service Analytics System}
   s.test_files = [
     "test/helper.rb",
     "test/test_service-analytics.rb"
