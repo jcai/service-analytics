@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "service-analytics"
   gem.homepage = "http://github.com/jcai/service-analytics"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Service Analytics System}
+  gem.description = %Q{Service Analytics System}
   gem.email = "jcai@fepss.com"
   gem.authors = ["jcai"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
